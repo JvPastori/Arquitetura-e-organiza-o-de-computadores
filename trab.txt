@@ -1,0 +1,8 @@
+Certifique-se de ter um compilador C instalado em seu sistema. 
+Abra um terminal ou prompt de comando e navegue até o diretório onde o arquivo de código-fonte (Trabalho.c) está localizado. 
+Execute o seguinte comando para compilar o código e gerar o executável:
+gcc -o meu_benchmark Trabalho.c
+
+Em seguida, ao executar o programa, você usa o comando:
+./meu_benchmark
+
